@@ -1,5 +1,0 @@
-# firstdevopsgit
-
-hi
-hi
-hi
