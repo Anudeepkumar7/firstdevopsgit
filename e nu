@@ -1,0 +1,48 @@
+[33mcommit 00b203e388de5c0fd7c0f3d21411b5276c0a9e5c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: anudeep <anudeep@example.com>
+Date:   Thu Feb 23 23:56:31 2023 +0530
+
+    routine commits
+
+[33mcommit e28af69e39704e25232dc9bcb8691df3e8b4b7fc[m[33m ([m[1;31morigin/local_branch_1[m[33m)[m
+Author: Anudeeplucky <125281933+Anudeeplucky@users.noreply.github.com>
+Date:   Thu Feb 23 23:47:30 2023 +0530
+
+    Update l_branch_file2.txt
+
+[33mcommit ae31e834acd1d73797237c1fdb20d23e2e72847a[m
+Author: anudeep <anudeep@example.com>
+Date:   Thu Feb 23 23:45:51 2023 +0530
+
+    commiting the file2
+
+[33mcommit a1ddf35f2157df01a7d64501ccc50d2e5f17227a[m
+Merge: 381a88d 7903caa
+Author: anudeep <anudeep@example.com>
+Date:   Thu Feb 23 23:37:56 2023 +0530
+
+    Merge branch 'branch_2' of https://github.com/Anudeeplucky/firstdevopsgit
+
+[33mcommit 7903caa9ff71af53489c709e3b4937ab49d853d6[m[33m ([m[1;31morigin/branch_2[m[33m)[m
+Author: Anudeeplucky <125281933+Anudeeplucky@users.noreply.github.com>
+Date:   Thu Feb 23 23:35:55 2023 +0530
+
+    Create b2_file_1
+
+[33mcommit 381a88de258848409b2d91ca880a512c0583e952[m
+Author: anudeep <anudeep@example.com>
+Date:   Thu Feb 23 23:26:14 2023 +0530
+
+    commiting file_1
+
+[33mcommit 9a0ccfc4793fee61bf184b6cbac31bc20c67c0e2[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Anudeeplucky <125281933+Anudeeplucky@users.noreply.github.com>
+Date:   Mon Feb 13 19:39:54 2023 +0530
+
+    Update README.md
+
+[33mcommit c01616cc20a5a946a76ca86df8c7ecea11ce5afc[m
+Author: Anudeeplucky <125281933+Anudeeplucky@users.noreply.github.com>
+Date:   Mon Feb 13 19:39:26 2023 +0530
+
+    Initial commit
